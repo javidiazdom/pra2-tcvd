@@ -1,6 +1,6 @@
 # COVID-19 daily numbers analysis
 
-## Analysis de las cifras de covid a nivel mundial
+## Analisis de las cifras de covid a nivel mundial
 
 ## Autor
 
