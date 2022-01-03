@@ -1,6 +1,6 @@
 # COVID-19 daily numbers analysis
 
-## Analisis de las cifras de covid a nivel mundial
+## Análisis de las cifras de covid a nivel mundial
 
 ## Autor
 
@@ -15,7 +15,7 @@ Javier Díaz Domínguez, javidiazdom@gmail.com
 
 ## Dataset
 
-Puede chequear el dataset (aquí)[https://github.com/javidiazdom/pra2-tcvd/blob/main/data/covid_daily_clean.csv].
+Puede chequear el dataset [aquí](https://github.com/javidiazdom/pra2-tcvd/blob/main/data/covid_daily_clean.csv).
 
 ## Licencia
 
