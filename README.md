@@ -15,7 +15,7 @@ Javier Díaz Domínguez, javidiazdom@gmail.com
 
 ## Dataset
 
-Puede chequear el dataset [aquí](https://github.com/javidiazdom/pra2-tcvd/blob/main/data/covid_daily_clean.csv).
+Puede chequear el dataset [aquí](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019).
 
 ## Licencia
 
